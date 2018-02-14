@@ -16,8 +16,8 @@ and captures result screenshot for each student in the class
 ## EDIT CODE
 1. Expand 'VTUClassResults-master' folder in Eclipse 'Package Explorer' >
    Expand 'src' > Expand '(default package)' > Double click on 'Results.java'
-2. Read the comments in the code and make changes accordingly to suit your scheme (ex: CBCS, non-CBCS)
-   Replace the USNs with your class students' USNs
+2. Read the comments in the code and make changes accordingly to suit your scheme (ex: CBCS, non-CBCS),
+   replace the USNs with your class students' USNs
 3. Save & Run the program
 
 ## RESULTS
