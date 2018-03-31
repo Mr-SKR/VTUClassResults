@@ -4,8 +4,8 @@ and captures result screenshot for each student in the class
 
 
 ## REQUIREMENTS
-* Google Chrome - latest version
-* Eclipse
+* Google Chrome 59 and above
+* Eclipse IDE for Java Developers/ Tava EE Developers
 
 
 ## IMPORTING THE PROJECT
